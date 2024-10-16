@@ -1,0 +1,14 @@
+C:\Users\tgame\Documents\CodeStack\Level1\Week1\GitTest\bin\Debug\net8.0\GitTest.exe
+C:\Users\tgame\Documents\CodeStack\Level1\Week1\GitTest\bin\Debug\net8.0\GitTest.deps.json
+C:\Users\tgame\Documents\CodeStack\Level1\Week1\GitTest\bin\Debug\net8.0\GitTest.runtimeconfig.json
+C:\Users\tgame\Documents\CodeStack\Level1\Week1\GitTest\bin\Debug\net8.0\GitTest.dll
+C:\Users\tgame\Documents\CodeStack\Level1\Week1\GitTest\bin\Debug\net8.0\GitTest.pdb
+C:\Users\tgame\Documents\CodeStack\Level1\Week1\GitTest\obj\Debug\net8.0\GitTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tgame\Documents\CodeStack\Level1\Week1\GitTest\obj\Debug\net8.0\GitTest.AssemblyInfoInputs.cache
+C:\Users\tgame\Documents\CodeStack\Level1\Week1\GitTest\obj\Debug\net8.0\GitTest.AssemblyInfo.cs
+C:\Users\tgame\Documents\CodeStack\Level1\Week1\GitTest\obj\Debug\net8.0\GitTest.csproj.CoreCompileInputs.cache
+C:\Users\tgame\Documents\CodeStack\Level1\Week1\GitTest\obj\Debug\net8.0\GitTest.dll
+C:\Users\tgame\Documents\CodeStack\Level1\Week1\GitTest\obj\Debug\net8.0\refint\GitTest.dll
+C:\Users\tgame\Documents\CodeStack\Level1\Week1\GitTest\obj\Debug\net8.0\GitTest.pdb
+C:\Users\tgame\Documents\CodeStack\Level1\Week1\GitTest\obj\Debug\net8.0\GitTest.genruntimeconfig.cache
+C:\Users\tgame\Documents\CodeStack\Level1\Week1\GitTest\obj\Debug\net8.0\ref\GitTest.dll
